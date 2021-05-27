@@ -17,6 +17,20 @@
         },
         {
           "chatTypeId": 1,
+          "message": "I have problem in module 1",
+          "userType": "user",
+          "createdAt": "2020-11-12T06:28:05.397151+00:00",
+          "conversationId": 58
+        },
+        {
+          "chatTypeId": 1,
+          "message": "Please help me with that",
+          "userType": "user",
+          "createdAt": "2020-11-12T06:28:05.397151+00:00",
+          "conversationId": 58
+        },
+        {
+          "chatTypeId": 1,
           "message": "Help me",
           "userType": "user",
           "createdAt": "2020-11-12T06:30:16.446574+00:00",
@@ -38,8 +52,36 @@
         },
         {
           "chatTypeId": 1,
+          "message": "Yes, please tell me",
+          "userType": "admin",
+          "createdAt": "2020-11-12T06:31:54.8459+00:00",
+          "conversationId": 61
+        },
+        {
+          "chatTypeId": 1,
+          "message": "Can we have quick meeting",
+          "userType": "user",
+          "createdAt": "2020-11-12T06:31:54.8459+00:00",
+          "conversationId": 61
+        },
+        {
+          "chatTypeId": 1,
+          "message": "Sure. I will send you the link.",
+          "userType": "admin",
+          "createdAt": "2020-11-12T06:31:54.8459+00:00",
+          "conversationId": 61
+        },
+        {
+          "chatTypeId": 1,
           "message": "I'll explain",
           "userType": "user",
+          "createdAt": "2020-11-12T06:32:27.783936+00:00",
+          "conversationId": 60
+        },
+        {
+          "chatTypeId": 1,
+          "message": "Yes, Im here to help you",
+          "userType": "admin",
           "createdAt": "2020-11-12T06:32:27.783936+00:00",
           "conversationId": 60
         }

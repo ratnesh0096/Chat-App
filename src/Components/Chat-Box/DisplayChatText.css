@@ -1,13 +1,41 @@
 .chat--box {
-    /* float: right !important; */
-    /* float: right; */
-    /* padding: 0px 10px; */
-    /* margin: 2px 2px; */
-    overflow-y: scroll;
-    margin-left: 32%;
-    display: grid;
-    border: 1px solid black;
-    margin-top: 10px;
-    width: 67%;
-    height: 290px;
+    border: 1px solid rgb(29, 23, 23);
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    height: 100%;
+    /* overflow: auto; */
+    overflow-x: hidden;
+    text-align: justify;
+    color: #fff;
+    background-color: #282828;
+}
+
+.chat__text {
+    border: 1px solid rgb(29, 23, 23);
+    border-radius: 10px;
+    margin: 8px 8px;
+    width: fit-content;
+    height: fit-content;
+    text-align: right;
+    color: white;
+}
+
+.box--style {
+    width: 90%;
+    padding: 10px 15px;
+    height: 100%;
+    box-sizing: border-box;
+    background-color: #282828;
+    color: white;
+}
+
+.button--style {
+    width: 10%;
+    height: 40px;
+    font-size: 15px;
+    text-align: center;
+    background-color: #282828;
+    color: white;
 }
